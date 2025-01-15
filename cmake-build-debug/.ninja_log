@@ -1,0 +1,10 @@
+# ninja log v6
+541	1135	1736904553469440134	pacman	e207666fb79e6b08
+1	778	1736811426216896637	CMakeFiles/pacman.dir/src/levels_and_framework/framework.c.o	d18c66985b11eba3
+3	541	1736904552929440139	CMakeFiles/pacman.dir/src/entities/ghost_ai.c.o	800f6b018dda82b0
+3	565	1736904100717443786	CMakeFiles/pacman.dir/src/entities/entity.c.o	4cd59b5fbdef324c
+4	540	1736904100721443786	CMakeFiles/pacman.dir/src/main.c.o	2b0020cb23f8352f
+3	537	1736904100717443786	CMakeFiles/pacman.dir/src/entities/pacman.c.o	cdb519283b253fec
+2	70	1736811441100896517	CMakeFiles/pacman.dir/src/levels_and_framework/firstLevel.c.o	595dcb91744e7664
+4	567	1736904100717443786	CMakeFiles/pacman.dir/src/core/game.c.o	7dedd9ceb6bc8783
+1	37	1736907877904843239	build.ninja	5aa0568771ab290d
