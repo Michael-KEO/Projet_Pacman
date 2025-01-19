@@ -71,8 +71,8 @@ Projet_Pacman/
 ## 📅 Instructions d'Installation et d'Exécution
 
 ### Prérequis
-- **GCC** installé
-- **SDL2**, **SDL2_image**
+- **GCC** 
+- **SDL2**
 
 ### Compilation
 ```bash
