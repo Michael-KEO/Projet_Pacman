@@ -34,24 +34,24 @@ Projet_Pacman/
 ├── include/                     # Fichiers d'en-tête (.h) partagés
 ├── lib/                         # Bibliothèques statiques et dynamiques (SDL2)
 ├── ressources/                  # Ressources du jeu (images, sons)
-│   ├── images/                  # Textures et images du jeu (BMP, PNG)
+│   ├── images/                  
 ├── src/                         # Code source du jeu
 │   ├── core/                    # Logique principale du jeu
-│   │   ├── game.h               # Déclarations des fonctions de gestion du jeu
-│   │   ├── game.c               # Implémentation des fonctionnalités du jeu
-│   │   └── main.h               # Déclarations des fonctions de démarrage
+│   │   ├── game.h               
+│   │   ├── game.c               
+│   │   └── main.h              
 │   ├── entities/                # Gestion des entités du jeu (Pacman, fantômes)
-│   │   ├── entity.h             # Déclarations des structures d'entités
-│   │   ├── entity.c             # Implémentation des entités du jeu
-│   │   ├── ghost_ai.h           # Déclarations de l'IA des fantômes
-│   │   ├── ghost_ai.c           # Implémentation de l'IA des fantômes
-│   │   ├── pacman.h             # Déclarations des fonctions spécifiques à Pacman
-│   │   └── pacman.c             # Implémentation des comportements de Pacman
+│   │   ├── entity.h             
+│   │   ├── entity.c             
+│   │   ├── ghost_ai.h          
+│   │   ├── ghost_ai.c           
+│   │   ├── pacman.h             
+│   │   └── pacman.c            
 │   ├── levels_and_framework/    # Gestion des niveaux et du moteur du jeu
-│   │   ├── first_level.h        # Déclarations pour le premier niveau
-│   │   ├── first_level.c        # Implémentation du premier niveau
-│   │   ├── framework.h          # Déclarations des fonctions du moteur du jeu
-│   │   └── framework.c          # Implémentation du moteur du jeu
+│   │   ├── first_level.h       
+│   │   ├── first_level.c       
+│   │   ├── framework.h         
+│   │   └── framework.c          
 │   └── main.c                   # Point d'entrée du programme
 ├── Makefile                     # Script de compilation automatisée
 └── README.md                    # Documentation du projet
